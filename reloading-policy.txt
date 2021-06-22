@@ -1,0 +1,5 @@
+{
+  "learn.mi.hdm-stuttgart.de": {
+    "url": "cmdClass=ilobjbigbluebuttongui"
+  }
+}
