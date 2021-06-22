@@ -5,10 +5,10 @@
 
 Add0n Page: https://add0n.com/tab-reloader.html
 
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/tab-reloader/
-Chrome: https://chrome.google.com/webstore/detail/tab-reloader-page-auto-re/dejobinhdiimklegodgbmbifijpppopn?hl=de
-Opera: https://addons.opera.com/extensions/details/tab-reloader/
-Edge: https://microsoftedge.microsoft.com/addons/detail/amclpbiglkmdhodbgnchnkmfdghnabik
+  * Firefox: https://addons.mozilla.org/en-US/firefox/addon/tab-reloader/
+  * Chrome: https://chrome.google.com/webstore/detail/tab-reloader-page-auto-re/dejobinhdiimklegodgbmbifijpppopn?hl=de
+  * Opera: https://addons.opera.com/extensions/details/tab-reloader/
+  * Edge: https://microsoftedge.microsoft.com/addons/detail/amclpbiglkmdhodbgnchnkmfdghnabik
 
 
 ### Activate plugin
